@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "I am a PhD student of Old Dominion University, Norfolk VA USA. My research is focused on machine learning and deep learning"
   location         : "Norfolk VA USA"
-  employer         :"Old Dominion University"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZToNwWcAAAAJ&hl=en"
-  email            :kisla001@odu.edu
+  email            :
   researchgate     :  "https://www.researchgate.net/profile/Kazi_Aminul_Islam"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

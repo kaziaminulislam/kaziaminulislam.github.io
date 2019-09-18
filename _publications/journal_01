@@ -1,0 +1,27 @@
+---
+title: On Use of Independent Component Analysis for Ocular Artifacts Reduction of Electroencephalogram and while Using Kurtosis as the Threshold"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date:  September30, 2017
+venue: 'Journal 1'
+paperurl: 'https://www.researchgate.net/profile/Kazi_Aminul_Islam/publication/318012020_On_Use_of_Independent_Component_Analysis_for_Ocular_Artifacts_Reduction_of_Electroencephalogram_and_While_Using_Kurtosis_as_the_Threshold/links/5954975aaca2729e74b8b731/On-Use-of-Independent-Component-Analysis-for-Ocular-Artifacts-Reduction-of-Electroencephalogram-and-While-Using-Kurtosis-as-the-Threshold.pdf'
+citation: 'Islam, Kazi Aminul, and Gleb Tcheslavski. "On Use of Independent Component Analysis for Ocular Artifacts Reduction of Electroencephalogram and while Using Kurtosis as the Threshold." International Journal Bioautomation 21, no. 3 (2017).'
+---
+ABSTRACT
+Brain electrical activity commonly represented by the Electroencephalogram
+(EEG), due to its miniscule amplitude (on the order of a hundred microvolts), is often
+contaminated with various artifacts. Independent Component Analysis (ICA) may be a useful
+technique to reduce some artifacts prior analyzing EEG. Present report discusses use of
+kurtosis to determine the threshold for detecting the artifacts-related independent components.
+Kurtosis may represent how peaked or how flat the artifacts that affect a signal are compared
+to the normal behavior of the original signal. Two statistical approaches were used for the
+kurtosis-based threshold selection: the Z-score and the confidence interval. The independent
+components determined as artifact-related may be either set to zero for the greater artifact
+suppression or scaled down for the reduced effect on the artifact-free regions of EEG.
+Based on the observed results, we may conclude that the present technique may be used for
+ocular artifacts reduction in EEG.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

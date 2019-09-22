@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Kazi Aminul Islam. I am currently a PhD Student in Old Dominion University, My research is focused on applied deep learning. I work on seagrass detection project which is funded by NASA. Here, we develop a deep learning based seagrass detection tool which can effectively detect and quantify seagrass in all over the world. 
+Hello, I am Kazi Aminul Islam. I am currently a PhD Student in Electrical and Computer Engineering department of Old Dominion University, My research is focused on applied deep learning. Currently, I work on seagrass detection in coastal areas using multispectral satellite images. This work is funded by NASA. Here, we develop a deep learning based seagrass detection tool which can effectively detect and quantify seagrass all over the world. 
 
 I like travelling, watching movies, reading books, musical concert, etc. 
 

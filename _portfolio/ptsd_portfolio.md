@@ -1,5 +1,5 @@
 ---
-title: "Seagrass detection Project Overview"
+title: "PTSD diagnosis Overview"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/PTSD_diagnosis.png'>"
 collection: portfolio
 ---

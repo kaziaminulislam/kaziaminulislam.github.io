@@ -7,7 +7,7 @@ excerpt: 'Abstract Seagrass is an important factor to balance marine ecological 
 date: November 2018
 venue: 'Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 PRCV 2018: Pattern Recognition and Computer Vision pp 320-331|'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'ttps://www.researchgate.net/publication/328679153_Seagrass_Detection_in_Coastal_Water_Through_Deep_Capsule_Networks_First_Chinese_Conference_PRCV_2018_Guangzhou_China_November_23-26_2018_Proceedings_Part_II'
 citation: 'Islam, Kazi Aminul, Daniel Pérez, Victoria Hill, Blake Schaeffer, Richard Zimmerman, and Jiang Li. "Seagrass detection in coastal water through deep capsule networks." In Chinese Conference on Pattern Recognition and Computer Vision (PRCV), pp. 320-331. Springer, Cham, 2018..'
 ---
 Abstract

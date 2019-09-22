@@ -28,6 +28,8 @@ January 2019: Journal Paper accepted at Knowledge and Information Systems - Spri
 
 December 2018: attended at IEEE Bigdata conference at Seattle WA
 
+November 2018: Participated as a Team leader and Achieved 9th position among 109 teams from 27 countries in the BigData Cup Challenge: 2018 FEMH Voice Data Challenge competition. 
+
 August 2018: Two conference paper accepted at PRCV 2018
 
 

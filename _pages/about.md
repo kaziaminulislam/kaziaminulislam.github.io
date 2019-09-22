@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABout Me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,16 +24,22 @@ Email: kisla001@odu.edu; russelkazi102@gmail.com.
 
 Updates
 ------
+August 2019: One short paper accepted in IEEE ICDM 2019 Conference with acceptance rate 18.5%
+January 2019: Journal Paper accepted at Knowledge and Information Systems - Springer (the 2018 KAIS impact factor is 2.397.)
+December 2018: attended at IEEE Bigdata conference at Seattle WA
+August 2018: Two conference paper accepted at PRCV 2018
 
-Create content & metadata
+
+
+%Create content & metadata
 ------
 
 
-**Markdown generator**
+%**Markdown generator**
 
-How to edit your site's GitHub repository
+%How to edit your site's GitHub repository
 ------
 
-For more info
+%For more info
 ------
 
